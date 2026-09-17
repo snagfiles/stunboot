@@ -25,6 +25,12 @@ Free, portable, high-performance bootable USB creator for Windows 11/10 and Linu
 
 `.ISO` (standard) · `.IMG` (raw image) · `.RAW` (block clone) · `.BIN` (binary disk) — no pre-conversion needed.
 
+
+![StunBoot screenshot](screenshot_stunboot.jpg)
+
+## Download
+https://github.com/snagfiles/stunboot/releases/download/usbboot/stunboot.zip
+
 ## How to Use
 
 1. **Choose OS Image** — browse and select your Windows or Linux ISO/IMG file; StunBoot auto-detects the OS
